@@ -1,5 +1,5 @@
 # Integration_SM_ML
-### Integration of simulation modeling and machine learning to assess the optimality of the initial parameters of the distribution center
+### Integration of immitation modeling and machine learning to assess the optimality of the initial parameters of the distribution center
 
 ------
 ### This research is dedicated to the development and exploration of the integration of simulation modeling and machine learning methods for optimizing the operations of a distribution center. The main goal of the research is to create an innovative tool that not only optimizes distribution center operations, thereby enhancing its productivity and reducing operational costs but also significantly improves customer service quality. 
