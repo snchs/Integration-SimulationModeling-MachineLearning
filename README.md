@@ -1,4 +1,4 @@
-# Integration_SM_ML
+# INTEGRATION OF SIMULATION MODELING AND MACHINE LEARNING FOR DISTRIBUTION CENTER OPTIMIZATION
 ### Integration of imitation modeling and machine learning to assess the optimality of the initial parameters of the distribution center
 
 ------
